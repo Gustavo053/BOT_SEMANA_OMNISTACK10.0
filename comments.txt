@@ -1,0 +1,21 @@
+#portuguese
+
+Esse bot está programado para ser usado com o nagevador Mozilla Firefox.
+Para utilizar com outro navegador, é preciso baixar e extrair o driver do 
+navegador correspondente.
+
+OBS: Lembrar de alterar o caminho do driver na atribuição do path ao selenium.
+
+#english
+
+This bot is programmed to be used with Mozilla Firefox.
+To use with another browser, you must download and extract the driver from
+corresponding browser.
+
+Hey! Remember to change the driver path when assigning the path to selenium.
+
+
+;)
+
+Gustavo Fonseca
+
